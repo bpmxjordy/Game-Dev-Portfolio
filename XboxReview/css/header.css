@@ -1,0 +1,19 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    max-width: 100%;
+}
+
+nav {
+    color: white;
+    height: auto;
+}
+
+
+body {
+    height: 100%;
+    width: auto;
+    background-color: rgb(28, 30, 34);
+}

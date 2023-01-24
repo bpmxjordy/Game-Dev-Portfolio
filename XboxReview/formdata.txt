@@ -1,0 +1,38 @@
+[
+    {
+        "username": "bpmxjordy2",
+        "email": "bpmxjordy@gmail.com",
+        "password": "1234",
+	"game": "Rocket League"
+    },
+    {
+        "username": "bpmxjordy",
+        "email": "bpmxjordy@gmail.com",
+        "password": "1234",
+	"game": "Rocket League"
+    },
+    {
+        "username": "Nitro",
+        "email": "bpmxjordy@gmail.com",
+        "password": "1234",
+	"game": "Rocket League"
+    },
+    {
+        "username": "bpmxjordy222",
+        "email": "bpmxjordy@gmail.com",
+        "password": "1234",
+	"game": "Rocket League"
+    },
+    {
+        "username": "jordan",
+        "email": "bpmxjordy@gmail.com",
+        "password": "1234",
+	"game": "Rocket League"
+    },
+    {
+        "username": "jordan2",
+        "email": "bpmxjordy@gmail.com",
+        "password": "1234",
+        "game": "Rocket League"
+    }
+]

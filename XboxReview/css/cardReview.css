@@ -1,0 +1,168 @@
+/* For the review cards */
+
+a{
+    color: rgb(185, 185, 185);
+}
+
+.review-container{
+    width: 100%;
+    height: auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.user-cards {
+    height: auto;
+    width: 70vw;
+
+}
+
+.card {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content: center;
+    border: none;
+    background-color: none;
+}
+
+.card > .header {
+    position:relative;
+    font-size: 2rem;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.card > .image{
+    font-size: 2vh;
+    
+}
+
+.contain {
+    width: 100%;
+    opacity: 20%;
+}
+
+.hide {
+    display: none;
+}
+
+.header {
+    width: 100%;
+    text-align: center;
+    font-size: 5rem;
+    color: white;
+}
+
+.rating {
+    font-size: 1.5rem;
+    color: #cbf0cb;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+}
+
+.time {
+    width: 100%;
+    text-align: right;
+    margin-bottom: 10px;
+    color: #cbf0cb;
+}
+
+.username {
+    font-size: 1.5rem;
+    color: #cbf0cb;
+}
+
+.nameRating{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.post-rating{
+    color: #cbf0cb;
+}
+
+.image-text-container{
+    width: 100%;
+    height: 15vh;
+    position: absolute;
+    top: 20%;
+    left: 0%;
+}
+
+.text-link {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 400px;
+}
+#nameRatingSpacing {
+    margin-left: 5%;
+}
+
+.price-text{
+    font-size: 1.5rem;
+    color: #cbf0cb;
+}
+
+#priceAndLink {
+    display: flex;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    justify-content: left;
+    align-items: left;
+    flex-direction: column;
+
+    margin-top: 5%;
+
+    
+}
+
+#priceAndLink > a {
+    margin-bottom: 5%;
+}
+
+#game-link{
+    display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; text-overflow: ellipsis; overflow: hidden;
+}
+
+@media only screen and (max-width: 1230px) {
+    .user-cards {
+        height: auto;
+        width: 90vw;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+        gap: 7rem;
+        margin-top: 1rem;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .user-cards {
+        height: auto;
+        width: 90vw;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+        gap: 7rem;
+        margin-top: 1rem;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+        .header{
+            font-size: 2rem;
+        }
+
+        .image-text-container {
+            top: 5vh;
+        }
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "username": "bpmxjordy",
+        "game": "Arma 3",
+        "game_image": "https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/107410\/header.jpg?t=1643208914",
+        "game_review": "A very good military simulation game that has a lot of potential and re-playability through their mod support. This support gives this game virtually an infinite amount of content to play. An example of this is the massively popular game DayZ. This game first started out as a mod for Arma 2 and is now a standalone game.",
+        "rating": "5",
+        "create_datetime": "2022-02-22 11:24:39"
+    },
+    {
+        "id": 2,
+        "username": "bpmxjordy",
+        "game": "Call of duty: Warzone",
+        "game_image": "https:\/\/www.callofduty.com\/content\/dam\/atvi\/callofduty\/cod-touchui\/blog\/hero\/mw-wz\/VGD-WZ-S2-POIS-TOUT.jpg",
+        "game_review": "This game mode had a lot of potential at the start but with the addition of different guns, maps and a more competitive scene, this game has gotten a lot worse for the average player an isn\\'t fun for a casual player. ",
+        "rating": "3",
+        "create_datetime": "2022-02-22 11:27:10"
+    },
+    {
+        "id": 3,
+        "username": "bpmxjordy",
+        "game": "Apex Legends",
+        "game_image": "https:\/\/media.contentapi.ea.com\/content\/dam\/apex-legends\/images\/2019\/01\/apex-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg",
+        "game_review": "This is an example of how to do a modern battle royal. This game has a great match making\/ ranking system that splits players into different groups based on their skill. This allows casual players to play for fun and competitive players to play competitively.",
+        "rating": "4",
+        "create_datetime": "2022-02-22 11:29:11"
+    },
+    {
+        "id": 4,
+        "username": "bpmxjordy",
+        "game": "FIFA 22",
+        "game_image": "https:\/\/cdn.cloudflare.steamstatic.com\/steam\/apps\/1506830\/capsule_616x353.jpg?t=1644868577",
+        "game_review": "Over the past 5 or so years, FIFA has slowly gotten worse with addition of AI, game sway, more competitiveness and more pay to win aspects. But, FIFA 22 seems to have changed a bit in the way its less pay to win. other than that the AI and game sway has gotten a lot stronger, and you sometimes find that you are fighting yourself\/ your players to get them to do what you want.",
+        "rating": "4",
+        "create_datetime": "2022-02-22 11:35:50"
+    }
+]

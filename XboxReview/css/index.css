@@ -1,0 +1,121 @@
+body {
+    background-color: #1c1e22
+
+}
+
+#first-section{
+    width: 100%;
+    height: 92vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#second-section{
+    background-color:#cbf0cb;
+    width: 100%;
+    height: 220vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: black;
+}
+
+#third-section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+#fourth-section{
+    background-color: rgb(15 16 19);
+    width: 100%;
+    height: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+    
+}
+
+.main-title-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.title{
+    font-size: 3.5rem;
+    color: #cbf0cb;
+}
+
+.title-undertext{
+    font-size: 1.5rem;
+}
+
+.down-arrow-container{
+    font-size: 3rem;
+    color: #cbf0cb;
+}
+
+.white {
+    color: white;
+}
+
+.gray {
+    color: #1c1e22;
+}
+
+
+
+.footer-header {
+    color: #cbf0cb;
+}
+
+.menu>a {
+    color: grey;
+}
+
+.second-title-container {
+    margin-top: 8vh;
+    margin-bottom: 10vh;
+}
+
+.filter-section{
+    width: 100%;
+    height: 15vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.filter-options > select {
+    margin-right: 2vw;
+}
+
+.filter-options > button {
+    margin-left: 0vw;
+}
+
+
+
+@media only screen and (max-width: 991px) {
+
+}
